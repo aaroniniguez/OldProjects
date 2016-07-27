@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<title>Lawn Care Service</title>
+	<link rel="canonical" href="http://bham.craigslist.org/fgs/5132187754.html">
+	<meta name="description" content="Like keeping your yard nice,clean, and green? With our service we can make your day a whole lot better. Very Reasonable Prices!!!!!!!!!! Call for a free estimate by phone  Ask for Matt Thank You!!!">
+	<meta name="robots" content="noarchive,nofollow">
+	<meta name="twitter:card" content="preview">
+	<meta property="og:description" content="Like keeping your yard nice,clean, and green? With our service we can make your day a whole lot better. Very Reasonable Prices!!!!!!!!!! Call for a free estimate by phone  Ask for Matt Thank You!!!">
+	<meta property="og:image" content="http://images.craigslist.org/00d0d_9MLUnopBZSm_600x450.jpg">
+	<meta property="og:site_name" content="craigslist">
+	<meta property="og:title" content="Lawn Care Service">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="http://bham.craigslist.org/fgs/5132187754.html">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=79157c70c9b358bf811d178365800f32">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet-stock.css?v=969bf0c010aad78a472cb96ed5c1d1bc">
+    <!--[if lt IE 9]>
+<script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+<![endif]-->
+</head>
+
+<body class="posting">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        var lng = C('cl_def_lang');
+        if (lng) bodyClassList.push(lng);
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof sectionAbb !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(sectionAbb + ':([^,]+)', 'i')) || {})[1];
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <article id="pagecontainer">
+        <div class="bglogo"></div>
+        
+
+<header class="bchead mobile-header">
+    <div class="mobile-menu-button">menu</div>
+    <h2 class="mobile-logo">
+        <a class="mobile-logo-link" href="/">craigslist</a> &gt; services
+    </h2>
+</header>
+
+<nav class="breadcrumbs-container closed bchead">
+    <form id="breadcrumbform" method="get" action="" data-action="">
+        
+        <div class="breadbox">
+            <ul class="userlinks">
+    <li class="user post">
+        <a class="no-mobile" href="https://post.craigslist.org/c/bhm?lang=en">post</a>
+        <a class="mobile-only" href="https://post.craigslist.org/c/bhm?lang=en">post to classifieds</a>
+    </li>
+    <li class="user account">
+        <em>[ </em>
+        <a class="no-mobile" href="https://accounts.craigslist.org/login/home">account</a>
+        <a class="mobile-only" href="https://accounts.craigslist.org/login/home">my account</a>
+        <em> ]</em>
+    </li>
+    <li class="user fav">
+        <div class="favorites">
+    
+    <a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+</div>
+    </li>
+</ul>
+            <ul class="breadcrumbs">
+                <li class="crumb cl"><a href="/">CL</a></li><li class="crumb area"><div class="mobile-only breadcrumb-labels">area</div><a href="/">birmingham, AL</a> <span class="breadcrumb-arrow">&gt;</span></li><li class="crumb section"><div class="mobile-only breadcrumb-labels">section</div><a href="/bbb">services</a> <span class="breadcrumb-arrow">&gt;</span></li><li class="crumb category"><div class="mobile-only breadcrumb-labels">category</div><a href="/fgs">farm &amp; garden services</a> <span class="no-js"> <input type="submit" value="go"></span></li>
+            </ul>
+        </div>
+        <div class="clearfix"></div>
+    </form>
+</nav>
+        <section class="body">
+            <section class="dateReplyBar">
+    
+        <script type="text/javascript"><!--
+            var isPreview = "";
+var bestOf = "";
+var buttonPostingID = "5132187754";
+
+        --></script>
+    
+
+<button class="reply_button js-only">reply <span class="envelope">&#9993;</span> <span class="phone">&#9742;</span></button>
+    <span class="replylink"><a id="replylink" href="/reply/bhm/fgs/5132187754">reply</a></span>
+
+<div class="returnemail js-only"></div>
+
+    <aside class="flags">
+    <a class="flaglink" data-flag="28" href="https://post.craigslist.org/flag?flagCode=28&amp;postingID=5132187754&amp;subareaid=0&amp;areaid=127&amp;cat=fgs&amp;area=bhm" title="flag as prohibited / spam / miscategorized"><span class="flag">x</span> <span class="flagtext">prohibited</span></a><sup>[<a href="http://www.craigslist.org/about/prohibited">?</a>]</sup>
+</aside>
+    <p id="display-date" class="postinginfo reveal">Posted: <time datetime="2015-07-20T14:10:15-0500">2015-07-20  2:10pm</time></p>
+    <div class="prevnext js-only">
+    <a class="prevnext prev">&#9664;  prev </a>
+    <a class="backup" title="back to search">&#9650;</a>
+    <a class="prevnext next"> next &#9654; </a>
+</div>
+    
+    <a href="#" id="printme">print</a>
+</section>
+
+<h2 class="postingtitle">
+  <span class="star"></span>
+  <span class="postingtitletext">Lawn Care Service<small> (Birmingham, Al)</small></span>
+</h2>
+<section class="userbody">
+    <figure class="iw">
+    
+
+    <div class="slidernav">
+        <span class="sliderback">&lt;</span>
+        <span class="sliderinfo"></span>
+        <span class="sliderforward">&gt;</span>
+    </div>
+
+    <div class="carousel multiimage">
+        <div class="tray"><div id="1_image_9MLUnopBZSm" data-imgid="9MLUnopBZSm" class="slide first visible"><img src="http://images.craigslist.org/00d0d_9MLUnopBZSm_600x450.jpg" title="image 1" alt="image 1"></div><div id="2_image_5pPbz4FpGaS" data-imgid="5pPbz4FpGaS" class="slide"></div><div id="3_image_6a6Y2Xsx45b" data-imgid="6a6Y2Xsx45b" class="slide"></div></div>
+    </div>
+
+    <div id="thumbs"><a id="1_thumb_9MLUnopBZSm" data-imgid="9MLUnopBZSm" href="http://images.craigslist.org/00d0d_9MLUnopBZSm_600x450.jpg" title="1"><img src="http://images.craigslist.org/00d0d_9MLUnopBZSm_50x50c.jpg" class="selected" alt="image 1"></a><a id="2_thumb_5pPbz4FpGaS" data-imgid="5pPbz4FpGaS" href="http://images.craigslist.org/00z0z_5pPbz4FpGaS_600x450.jpg" title="2"><img src="http://images.craigslist.org/00z0z_5pPbz4FpGaS_50x50c.jpg" alt="image 2"></a><a id="3_thumb_6a6Y2Xsx45b" data-imgid="6a6Y2Xsx45b" href="http://images.craigslist.org/00909_6a6Y2Xsx45b_600x450.jpg" title="3"><img src="http://images.craigslist.org/00909_6a6Y2Xsx45b_50x50c.jpg" alt="image 3"></a></div>
+    
+        <script type="text/javascript"><!--
+            var imgList = [{"shortid":"9MLUnopBZSm","url":"http://images.craigslist.org/00d0d_9MLUnopBZSm_600x450.jpg","thumb":"http://images.craigslist.org/00d0d_9MLUnopBZSm_50x50c.jpg","imgid":"0:00d0d_9MLUnopBZSm"},{"shortid":"5pPbz4FpGaS","url":"http://images.craigslist.org/00z0z_5pPbz4FpGaS_600x450.jpg","thumb":"http://images.craigslist.org/00z0z_5pPbz4FpGaS_50x50c.jpg","imgid":"0:00z0z_5pPbz4FpGaS"},{"shortid":"6a6Y2Xsx45b","url":"http://images.craigslist.org/00909_6a6Y2Xsx45b_600x450.jpg","thumb":"http://images.craigslist.org/00909_6a6Y2Xsx45b_50x50c.jpg","imgid":"0:00909_6a6Y2Xsx45b"}];
+var imageText = "image";
+
+        --></script>
+    
+</figure>
+
+    <div class="mapAndAttrs">
+        <div class="mapbox">
+    <div id="map" class="viewposting" data-latitude="33.531938" data-longitude="-86.735689" data-accuracy="10"></div>
+    <div class="mapaddress">1014 Eagle View Dr. Apt G</div>
+    <p class="mapaddress">
+        <small>
+        (<a target="_blank" href="https://maps.google.com/?q=loc%3A+%31%30%31%34+Eagle+View+Dr%2E+Apt+G+Birmingham+AL+US">google map</a>)
+        </small>
+    </p>
+</div>
+        
+        
+        <div class="no-mobile">
+            
+            <div id="printcontact"></div><p>
+            <div id="qrcode"></div>
+        </div>
+    </div>
+
+    <section id="postingbody">
+        Like keeping your yard nice,clean, and green? With our service we can make your day a whole lot better. Very Reasonable Prices!!!!!!!!!!<br>
+Call for a free estimate by phone 
+ <a href="/fb/bhm/fgs/5132187754" class="showcontact" title="click to show contact info" rel="nofollow">show contact info</a>
+ Ask for Matt Thank You!!!
+    </section>
+
+
+    <ul class="notices"><li>it's ok to contact this poster with services or other commercial interests</li></ul>
+
+    <div class="postinginfos">
+        <p class="postinginfo">post id: 5132187754</p>
+        <p class="postinginfo reveal">posted: <time datetime="2015-07-20T14:10:15-0500">2015-07-20  2:10pm</time></p>
+        
+               <p class="postinginfo"><a href="https://accounts.craigslist.org/eaf?postingID=5132187754&amp;token=U2FsdGVkX18yMzE1MDIzMU2AckyEELLnSElZOCiBDwdk3s1ANYlhXswf7XeDWyqH4jLa2uiIEsuLtHIs9mCbPw" class="tsb">email to friend</a></p>
+               <p class="postinginfo"><a class="bestoflink" data-flag="9" href="https://post.craigslist.org/flag?flagCode=9&amp;postingID=5132187754&amp;" title="nominate for best-of-CL"><span class="bestof">&hearts; </span><span class="bestoftext">best of</span></a> <sup>[<a href="http://www.craigslist.org/about/best-of-craigslist">?</a>]</sup>
+</p>
+    </div>
+    <div id="printpics"></div>
+
+</section>
+
+<div class="no-mobile">
+    
+</div>
+
+<div class="mobile-only">
+    
+</div>
+
+
+        </section>
+        <footer>
+    
+    <ul class="clfooter">
+        <li>&copy; 2015 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="//www.craigslist.org/about/help/">help</a></li>
+        <li><a href="//www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+        <li><a href="//www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </article>
+
+    
+        <script type="text/javascript"><!--
+            var countOfTotalText = "{count} of {total}";
+var pID = "5132187754";
+
+        --></script>
+    
+    <script src="//www.craigslist.org/js/general-concat.min.js?v=6cb385e4e0a5b407e757c7b873539699" type="text/javascript" ></script>
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+        document.body.insertBefore(iframe, null);
+    --></script>
+    <script src="//www.craigslist.org/js/leaflet-concat.min.js?v=238ab919e9a26c68ec3fa8f53696af92" type="text/javascript" ></script>
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=b3014e056523cb3c1a6ee54ae95221b6" type="text/javascript" ></script>
+</body>
+</html>
